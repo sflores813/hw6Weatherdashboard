@@ -5,11 +5,12 @@
 }
 
 body {
-    background-color: lightgray;
+    background-image:url("https://www.cambridge.org/elt/blog/wp-content/uploads/2019/02/background-3268840_1920.jpg ");
     font-size: 16px;
     font-family: 'Londrina Solid', cursive;
-    
 }
+
+} 
 h3{
     font-weight: bold;
 }
