@@ -200,7 +200,7 @@ function weatherInfo(userSearch) {
               .attr("class", "card-text")
               .text("Humidity: " + fiveDayResponse.list[i].main.humidity + "%")
           );
-          newCard.attr("style", "margin-left: 8px");
+          newCard.attr("style", "margin-left: 10px" , "padding-bottom: 10px");
         }
       }
     });
