@@ -1,28 +1,34 @@
-
-*{
-    box-sizing: border-box;
-    
+.col-lg-8 {
+    background-color: transparent;
+    height: 400px;
+    margin-top: 5px;
 }
-
 body {
     background-image:url("https://www.cambridge.org/elt/blog/wp-content/uploads/2019/02/background-3268840_1920.jpg ");
     font-size: 16px;
-    font-family: 'Londrina Solid', cursive;
+    font-family: 'Lobster', cursive;
+}
+/*main forcast box*/
+#main {
+    font-size: xx-large;
 }
 
-} 
-h3{
-    font-weight: bold;
-}
-
-.forecast{
+#forcast {
+    margin-left: 24%;
+    margin-top: -10px;
     
-    font-size: 0.9em;
+
 }
-span{
-    font-size: 1em;
+
+input {
+    margin-left: -36px;
 }
-li:hover{
-    background-color: lightslategray;
-    text-decoration: underline;
+/*search bar*/
+#search {
+    margin-left: -75px;
+    margin-top: 4px;
+    width: auto;
+    color: black;
+    background-color: transparent;
+    
 }
